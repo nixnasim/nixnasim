@@ -1,5 +1,10 @@
-<h1 align="center">Hi there, I'm Nasimul Islam Nasim 👋</h1>
-<h3 align="center">CS Student · Aspiring Software Engineer · Learning Web Development</h3>
+<h1 align="center">
+  Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28px"/>, I'm Nasimul Islam Nasim
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1000&color=06B6D4&center=true&vCenter=true&width=460&lines=CS+Student+%40+Eastern+University;Learning+HTML%2C+CSS+%26+JavaScript;Aspiring+Software+Engineer;Gamer+%26+Content+Creator+(nixnasim)" />
+</p>
 
 <p align="center">
   <a href="https://nixnasim.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-nixnasim.vercel.app-06B6D4?style=flat&logo=vercel&logoColor=white" height="28" /></a>
@@ -9,20 +14,35 @@
 
 ---
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ### 👨‍💻 About Me
 
-- 🎓 CS student at **Eastern University**, Dhaka, Bangladesh — currently learning web development one project at a time.
-- 🌱 Right now I'm focused on **HTML, CSS & JavaScript** — getting comfortable with core fundamentals before branching into frameworks.
-- 🛠️ I learn best by **building small, real things**, breaking them, and fixing them again.
-- 🗣️ I speak **Bangla, English & Hindi**.
-- 🎮 Outside of studying, I'm a **gamer** and content creator — you'll find me as **Nasim Plays YT** on YouTube.
+- 🎓 CS student at **Eastern University**, Dhaka, Bangladesh
+- 🌱 Currently learning **HTML, CSS & JavaScript** — building core web dev fundamentals
+- 🛠️ I learn best by **building small, real things**, breaking them, and fixing them again
+- 🗣️ I speak **Bangla, English & Hindi**
+- 🎮 Outside of studying, I'm a **gamer** and content creator — you'll find me as **Nasim Plays YT**
 - 📫 Reach me at **nasimulislamnasim6@gmail.com**
+
+</td>
+<td width="40%">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
-### 🧠 Skills
+<table>
+<tr>
+<td width="60%" valign="top">
 
-**Competitive Programming**
+## *Skills:*
+
+**🦖 Competitive Programming**
 
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" height="28" />
@@ -30,7 +50,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" height="28" />
 </p>
 
-**Frontend Development**
+**📚 Frontend Development**
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="28" />
@@ -38,7 +58,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="28" />
 </p>
 
-**Version Control & Design Tools**
+**🚦 Version Control & Design Tools**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="28" />
@@ -46,6 +66,13 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="28" />
 </p>
+
+</td>
+<td width="40%">
+  <img src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -77,6 +104,10 @@ Building a foundation in programming, data structures, and software engineering.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nixnasim&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nixnasim&theme=tokyo-night" width="90%"/>
 </p>
 
 ---
