@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=470&lines=+Welcome+to+my+GitHub!;Welcome+to+my+Project+Hub!;Welcome+to+my+Coding+Journey!)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&width=470&lines=+Welcome+to+my+GitHub!;Welcome+to+my+Project+Hub!;Welcome+to+my+Coding+Journey!">
 
 <div align ="center">
 
