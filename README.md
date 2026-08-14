@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1000&color=06B6D4&center=true&vCenter=true&width=460&lines=CS+Student+%40+Eastern+University;Learning+HTML%2C+CSS+%26+JavaScript;Aspiring+Software+Engineer;Gamer+%26+Content+Creator+(nixnasim)" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=06B6D4&center=true&vCenter=true&width=460&lines=CS+Student+%40+Eastern+University;Learning+HTML%2C+CSS+%26+JavaScript;Aspiring+Software+Engineer;Gamer+%26+Content+Creator+(nixnasim)" />
 </p>
 
 <p align="center">
@@ -14,9 +14,7 @@
 
 ---
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 ### 👨‍💻 About Me
 
@@ -27,18 +25,11 @@
 - 🎮 Outside of studying, I'm a **gamer** and content creator — you'll find me as **Nasim Plays YT**
 - 📫 Reach me at **nasimulislamnasim6@gmail.com**
 
-</td>
-<td width="40%">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
-</td>
-</tr>
-</table>
+<br clear="both">
 
 ---
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<img align="right" width="280" src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel.gif" />
 
 ## *Skills:*
 
@@ -67,12 +58,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="28" />
 </p>
 
-</td>
-<td width="40%">
-  <img src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel.gif" width="100%"/>
-</td>
-</tr>
-</table>
+<br clear="both">
 
 ---
 
