@@ -199,11 +199,12 @@ Besides, I am studying <b>Computer Science & Engineering</b> at <b>Eastern Unive
 
 <!-- Contribution Statistics and Visuals -->
 <p align="center">
-<img width="44%" src="https://github-readme-streak-stats.herokuapp.com?user=nixnasim&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=530&card_height=210" />
-
-<img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=nixnasim&bg_color=2c7081&color=ffffff&line=21ab6d&point=1abcbc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" width="70%" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nixnasim&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=530&card_height=210" />
 </p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nixnasim&bg_color=2c7081&color=ffffff&line=21ab6d&point=1abcbc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" width="70%" />
+</p>
 
 
 
