@@ -1,42 +1,37 @@
+<!--============ Welcome, Top Banner, Greedings ============-->
+
+<!-- Typewriting Introduction -->
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&width=470&lines=+Welcome+to+my+GitHub!;Welcome+to+my+Project+Hub!;Welcome+to+my+Coding+Journey!">
 
+<!-- Banners 1st Phase : Top Banner -->
+
 <div align ="center">
-
 <img src ="https://media.licdn.com/dms/image/v2/D5616AQEeOh2RMaXcVg/profile-displaybackgroundimage-shrink_350_1400/B56Z_.nNUfHUAY-/0/1786683119201?e=1788393600&v=beta&t=Z38XqlQxwGNU_YjEGQFcuzI04z811t5O4B2NcxAizGU" />
-
 </div>
 
 <h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I am Nasimul Islam Nasim </h1>
+
+<!--=========Intro, Git Stats, Top Lang=============-->
 
 <div align="center" width="150px">
  I am currently learning <b> Web Development and Programming. </b>  <br />
 Besides, I am studying <b>Computer Science & Engineering</b> at <b>Eastern University (EU)</b>. <br>
 <b> Aspiring Software Engineer</b> <br> <br>
-
-
 </div>
 
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=nixnasim&label=Profile%20views&color=0e75b6&style=flat" https://github.com/user-attachments/assets/7f620d0b-b598-4709-aaf1-b1d3d44911dd$0alt="nixnasim" />
-<a herf = "https://wakatime.com/@nixnasim"> <img src="https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg" alt="https://wakatime.com/@nixnasim" /> </a> 
+<a href="https://wakatime.com/@ce863540-ac1a-40a5-b482-fea1eb9067b1"><img src="https://wakatime.com/badge/user/ce863540-ac1a-40a5-b482-fea1eb9067b1.svg" alt="Total time coded since Aug 15 2026" /></a>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/nixnasim"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/nixnasim">
 </p>
  
-<!-- <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=nixnasim&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack"  width="45%" alt="stats graph"  />
-</p> -->
-
-<!-- <p align="center">
-<a herf = "https://wakatime.com/@nixnasim">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nixnasim&theme=moltack&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" />
-</a>
-</p> -->
-
 <p align="center">
-<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nixnasim&theme=moltack" />
-<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nixnasim&theme=moltack"  />
-<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nixnasim&theme=moltack"  />
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nixnasim&theme=yeblu&title_color=ffffff&text_color=ffffff&bg_color=1d6373&icon_color=00ffff&chart_color=ccffff" />
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nixnasim&theme=yeblu&title_color=ffffff&text_color=ffffff&bg_color=1d6373&icon_color=00ffff&chart_color=ccffff"  />
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nixnasim&theme=yeblu&title_color=ffffff&text_color=ffffff&bg_color=1d6373&icon_color=00ffff&chart_color=ccffff"  />
 </p>
+
 
 <!-- ===================== TOP BUTTONS ===================== -->
 <div align="center">
@@ -96,7 +91,7 @@ Besides, I am studying <b>Computer Science & Engineering</b> at <b>Eastern Unive
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&width=470&lines=Computer+Science+Student;Aspiring+Software+Engineer;Gamer)](https://git.io/typing-svg)
 
- <!-- Banners 3rd Phase : About Me -->
+ <!-- Banners 1st Phase : About Me -->
 <p align = 'right'>
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30%">
 </p>
@@ -113,13 +108,12 @@ Besides, I am studying <b>Computer Science & Engineering</b> at <b>Eastern Unive
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills: </i>
 
-<!-- Banners 4th Phase : SpiderMan -->
+<!-- Banners 2nd Phase : SpiderMan -->
 <p align = 'right'>
 <img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
 </p>
-<!-- Banners 4th Phase : SpiderMan -->
 
-#### 🦖 Competitive Programming
+#### 🧑‍💻 Competitive Programming
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
@@ -188,10 +182,10 @@ Besides, I am studying <b>Computer Science & Engineering</b> at <b>Eastern Unive
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
-
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
+  
   <!--
 
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg) 
   
@@ -209,7 +203,7 @@ Besides, I am studying <b>Computer Science & Engineering</b> at <b>Eastern Unive
 
 </p>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nixnasim&theme=tokyo-day" width="70%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nixnasim&bg_color=2c7081&color=ffffff&line=21ab6d&point=1abcbc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" width="70%" />
 </p>
 
 <div align="center">
