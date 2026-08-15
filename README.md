@@ -91,9 +91,9 @@ Besides, I am studying <b>Computer Science & Engineering</b> at <b>Eastern Unive
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&width=470&lines=Computer+Science+Student;Aspiring+Software+Engineer;Gamer)](https://git.io/typing-svg)
 
- <!-- Banners 1st Phase : About Me -->
+ <!-- Banners 2nd Phase : About Me -->
 <p align = 'right'>
-<img align='right' src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="30%">
+<img align='right' src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="28%">
 </p>
 
  <!-- About Me -->
@@ -108,10 +108,7 @@ Besides, I am studying <b>Computer Science & Engineering</b> at <b>Eastern Unive
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills: </i>
 
-<!-- Banners 2nd Phase : SpiderMan -->
-<p align = 'right'>
-<img align='right' src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="40%">
-</p>
+
 
 #### 🧑‍💻 Competitive Programming
 
@@ -119,7 +116,12 @@ Besides, I am studying <b>Computer Science & Engineering</b> at <b>Eastern Unive
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
 
-#### 📚 Frontend Development & Frameworks
+#### 📚 Frontend Development & Frameworks 
+
+<!-- Banners 3rd Phase : Laptop -->
+<p align = 'right'>
+<img align='right' src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="40%">
+</p>
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
 <!--  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
