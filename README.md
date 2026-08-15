@@ -93,7 +93,7 @@ Besides, I am studying <b>Computer Science & Engineering</b> at <b>Eastern Unive
 
  <!-- Banners 1st Phase : About Me -->
 <p align = 'right'>
-<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30%">
+<img align='right' src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="30%">
 </p>
 
  <!-- About Me -->
@@ -110,7 +110,7 @@ Besides, I am studying <b>Computer Science & Engineering</b> at <b>Eastern Unive
 
 <!-- Banners 2nd Phase : SpiderMan -->
 <p align = 'right'>
-<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
+<img align='right' src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="40%">
 </p>
 
 #### 🧑‍💻 Competitive Programming
