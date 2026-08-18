@@ -98,10 +98,12 @@ Besides, I am studying <b>Computer Science & Engineering</b> at <b>Eastern Unive
 
  <!-- About Me -->
 <p align='left'>
-- 🎓 CS student at <b>Eastern University</b>, Dhaka, Bangladesh <br>
-- 🌱 Currently learning <b>C, C++ & HTML</b> — building core web dev fundamentals<br>
-- 🗣️ I speak <b>Bangla, English & Hindi</b> <br>
-- 🎮 Outside of studying, I'm a <b>gamer</b> — you'll find me as <b> Nasim Plays YT<br>
+<ul type = square>
+<li> 🎓 CS student at <b>Eastern University</b>, Dhaka, Bangladesh <br> </li>
+<li> 🌱 Currently learning <b>C, C++ & HTML</b> — building core web dev fundamentals<br> </li>
+<li> 🗣️ I speak <b>Bangla, English & Hindi</b> <br> </li>
+<li> 🎮 Outside of studying, I'm a <b>gamer</b> — you'll find me as <b> Nasim Plays YT<br> </li>
+</ul>
 </p>
  
 <!-- Skill Section -->
