@@ -126,8 +126,8 @@ Besides, I am studying <b>Computer Science & Engineering</b> at <b>Eastern Unive
 </p>
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
-<!--  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
+<!--   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
