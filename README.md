@@ -7,7 +7,7 @@
 <!-- Banners 1st Phase : Top Banner -->
 
 <div align ="center">
-<img src ="https://media.licdn.com/dms/image/v2/D5616AQEeOh2RMaXcVg/profile-displaybackgroundimage-shrink_350_1400/B56Z_.nNUfHUAY-/0/1786683119201?e=1788393600&v=beta&t=Z38XqlQxwGNU_YjEGQFcuzI04z811t5O4B2NcxAizGU" />
+<img src ="image/banner.jpg" />
 </div>
 
 <h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I am Nasimul Islam Nasim </h1>
